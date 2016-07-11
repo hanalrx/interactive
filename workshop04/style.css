@@ -1,0 +1,83 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin:0;
+}
+
+*{
+	box-sizing:border-box;
+}
+
+div.relative {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+}
+
+div.absolute {
+    position: absolute;
+    top: 0px;
+    left: 0
+    width: 150px;
+    height: 140px;
+    border: 3px solid;
+    background color:black;
+}
+
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 0px solid #73AD21;
+    background-color:#b3ffd9; 
+}
+
+a{
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 290px;
+	height: 290px;
+	background-color: pink;
+}
+
+a.tape{background-color: #e6f1ff;
+border-style:double;}
+a.tape:hover{background-color:#66ffb3 }
+
+a.personality{background-color:  #b3d4ff;
+border-style: solid;}
+a.personality:hover {background-color: #ffff99;
+font-family: "Comic Sans MS"}
+
+a.check{background-color:#80b7ff;
+border: dotted;}
+a.check:hover {background-color:	#ff9999;
+border: dashed;
+font-family: 'Dosis', sans-serif;
+font-size: 40px}
+
+a.Window{background-color:#4d9aff;
+border: dashed;}
+a.Window:hover{background-color: pink}
+
+a.Labyrinth{background-color: #ffcccc;
+border: double;}
+a.Labyrinth:hover {background-color: #004299}
+
+a.life{background-color:	 #cce2ff;
+border-style: solid;}
+a.life:hover{background-color:  #ffff00}
+
+a.sketches{background-color:	#99c5ff;}
+a.sketches:hover{background-color:#ff99cc}
+
+a.chinchila{background-color:	#66a8ff;}
+a.chinchila:hover{background-color: #99ffb3}
+
+a.smile{background-color:	#99c5ff;}
+a.smile:hover{background-color: #99ffb3}
