@@ -1,0 +1,203 @@
+body{
+	margin:150px;
+	border: solid;
+	border-width: 80px;
+	border-color: yellow;
+	padding: 40px;
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	text-align: center;
+	background-color: red
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 0px solid #73AD21;
+    background-color:blue; 
+    color: white
+}
+
+div.fixed:hover {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+    border: 0px solid #73AD21;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+}
+
+div.fixed2 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: white
+
+}
+
+div.fixed2:hover {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+    
+}
+
+div.fixed3 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: white
+}
+div.fixed3:hover {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+}
+
+div.fixed4 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: white
+}
+
+div.fixed4:hover {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+}
+
+
+div.fixed5 {
+    position: fixed;
+    bottom: 400px;
+    left: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: white
+}
+
+
+div.fixed5:hover {
+    position: fixed;
+    bottom: 400px;
+    left: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+}
+
+div.fixed6 {
+    position: fixed;
+    bottom: 400px;
+    right: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: white
+}
+
+
+div.fixed6:hover {
+    position: fixed;
+    bottom: 400px;
+    right: 0;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+}
+
+div.fixed7 {
+    position: fixed;
+    bottom: 0;
+    left: 600px;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: white
+}
+
+div.fixed7:hover {
+    position: fixed;
+    bottom: 0;
+    left: 600px;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+}
+
+div.fixed8 {
+    position: fixed;
+    top: 0;
+    left: 600px;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: white
+}
+
+div.fixed8:hover {
+    position: fixed;
+    top: 0;
+    left: 600px;
+    width: 300px;
+    border: 0px solid;
+    background-color:blue; 
+    color: red;
+    font-size:80px;
+}
+
+
+p{color: white;}
+p.first{
+	font-size: 60px;
+}
+
+p.first:hover{
+	font-size: 100px;
+	background-color:lightgreen;
+	color:red;
+}
+p.second{
+	font-size: 40px;
+}
+p.second:hover{
+	font-size: 60px;
+	background-color:lightgreen;
+	color:red;
+}

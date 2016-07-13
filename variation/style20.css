@@ -1,0 +1,164 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin-top:100px;
+	margin-left: 300px;
+	margin-right: 300px;
+	background-color: #D3C494;
+	letter-spacing: -5.5px;
+}
+
+div.first  {
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 220px;
+	height:30px;
+	background-color: #8B735A;
+	font-size: 20px;
+}
+
+div.first:hover{
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 500px;
+	height:30px;
+	background-color: black;
+	font-size: 20px;
+	color: white;
+	letter-spacing: 0px;
+}
+
+div.second  {
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 180px;
+	height:30px;
+	background-color: #A7A7A7;
+	font-size: 20px;
+}
+
+div.second:hover{
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 600px;
+	height:30px;
+	background-color: black;
+	font-size: 20px;
+	letter-spacing: 0px;
+	color: white;
+}
+
+div.third  {
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 200px;
+	height:30px;
+	background-color: #D5FFC3;
+	font-size: 20px;
+}
+
+div.third:hover{
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 500px;
+	height:30px;
+	background-color: black;
+	font-size: 20px;
+	letter-spacing: 0px;
+	color: white;
+}
+
+div.forth  {
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 200px;
+	height:30px;
+	background-color: #D5FFC3;
+	font-size: 20px;
+}
+
+div.forth:hover{
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 500px;
+	height:30px;
+	background-color: black;
+	font-size: 20px;
+	letter-spacing: 0px;
+	color: white;
+}
+
+div.fifth  {
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 200px;
+	height:30px;
+	background-color: #D5FFC3;
+	font-size: 20px;
+}
+
+div.fifth:hover{
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 500px;
+	height:30px;
+	background-color: black;
+	font-size: 20px;
+	letter-spacing: 0px;
+	color: white;
+}
+
+div.six  {
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 200px;
+	height:30px;
+	background-color: #D5FFC3;
+	font-size: 20px;
+}
+
+div.six:hover{
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 500px;
+	height:30px;
+	background-color: black;
+	font-size: 20px;
+	letter-spacing: 0px;
+	color: white;
+}

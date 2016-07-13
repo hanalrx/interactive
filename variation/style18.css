@@ -1,0 +1,58 @@
+body{
+	font-family: 'Indie Flower', cursive;
+	background-color: black
+}
+
+p.head{
+	font-size: 30px;
+	margin-left: 560px;
+	padding: 10px;
+	width: 330px;
+	height:170px;
+	background-color: #ffffe6;
+	align-items: center;
+	vertical-align: center;
+}
+
+p.head{
+    border: 2px;
+    border-style: dotted;
+}
+
+p.head2{
+	font-size: 25px;
+	margin-left: 560px;
+	padding: 10px;
+	width: 330px;
+	height:230px;
+	background-color: #ffffe6;
+	align-items: center;
+	vertical-align: center;
+	border: 2px;
+    border-style: dotted;
+}
+p.head3{
+	font-size: 25px;
+	margin-left: 560px;
+	padding: 10px;
+	width: 330px;
+	height:250px;
+	background-color: #ffffe6;
+	align-items: center;
+	vertical-align: center;
+	border: 2px;
+    border-style: dotted;
+}
+
+p.head4{
+	font-size: 25px;
+	margin-left: 560px;
+	padding: 10px;
+	width: 330px;
+	height:395px;
+	background-color: #ffffe6;
+	align-items: center;
+	vertical-align: center;
+	border: 2px;
+    border-style: dotted;
+}

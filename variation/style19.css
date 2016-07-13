@@ -1,0 +1,110 @@
+body{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif,'Droid Serif', serif;
+	margin-top: 70px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: #6ED3BF;
+	color: white;
+}
+
+span.head{
+	background-color:  #50958a;
+	font-weight：700;
+	font-size: 40px;
+	letter-spacing: 16.2px;
+}
+
+span.first1{
+	background-color: #79B7AE;
+	letter-spacing: 20px;
+}
+
+
+span.first{
+	background-color: #79B7AE;
+	letter-spacing: 15px;
+}
+
+span.second{
+	background-color: #79B7A8;
+	letter-spacing: 8px;
+}
+span.second2{
+	background-color: #79B7A8;
+	letter-spacing: 7px;
+}
+span.second3{
+	background-color: #79B7A8;
+	letter-spacing: 8.5px;
+}
+
+
+span.third{
+	background-color: #79B7A8;
+	letter-spacing: 5px;
+}
+
+span.third2{
+	background-color: #79B7A8;
+	letter-spacing: 3px;
+}
+
+span.third3{
+	background-color: #79B7A8;
+	letter-spacing: 5px;
+}
+
+span.forth{
+	background-color: #79B7A8;
+	letter-spacing: 2.5px;
+}
+
+span.forth2{
+	background-color: #79B7A8;
+	letter-spacing: 1.5px;
+}
+span.forth3{
+	background-color: #79B7A8;
+	letter-spacing: 2px;
+}
+span.fifth{
+	background-color: #79B7A8;
+	letter-spacing: -1px;
+}
+
+span.fifth1{
+	background-color: #79B7A8;
+	letter-spacing: -1px;
+}
+
+span.fifth2{
+	background-color: #79B7A8;
+	letter-spacing: -0.5px;
+}
+
+span.six{
+	background-color: #79B7A8;
+	letter-spacing: -1.9px;
+}
+
+span.six1{
+	background-color: #79B7A8;
+	letter-spacing: -3px;
+}
+
+span.six2{
+	background-color: #79B7A8;
+	letter-spacing: -2px;
+}
+
+span.six3{
+	background-color: #79B7A8;
+	letter-spacing: -4px;}
+
+
+span.last{
+	background-color: #79B7A8;
+	letter-spacing: -0.6px;
+}
+

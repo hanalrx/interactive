@@ -1,0 +1,13 @@
+body{
+	margin:20px;
+	border:solid;
+	padding:30px;
+	font-family: 'Amatic SC', cursive;
+	font-size:30px;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+span.qqqq{
+	border:solid;
+}

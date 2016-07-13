@@ -1,0 +1,24 @@
+body {font-family: 'Montserrat', sans-serif;
+}
+
+div.first{
+	line-height: 70%;
+	font-size: 30px;
+	letter-spacing: 5px;
+}
+
+div.first  {
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+	width: 330px;
+	height:330px;
+	background-color: pink;
+}
+
+div.first:hover{
+	background-color: yellow;
+	font-size: 40px;
+}

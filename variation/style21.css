@@ -1,0 +1,132 @@
+body {
+	background-color: black;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+p{
+	text-transform: uppercase;
+}
+
+p.first{
+	background-color: #C9B1B2;
+	font-size: 15px;
+	color:#EF4354;
+	text-align: center;
+}
+
+
+p.second{
+	background-color: white;
+    color: #EF4354;
+	font-size: 17.5px;
+}
+
+p.third{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 20px;
+}
+
+
+p.forth{
+	background-color: white;
+    color: #EF4354;
+	font-size: 22.5px;
+}
+
+p.fifth{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 25px;
+}
+
+p.qqqq{
+	background-color: white;
+    color: #EF4354;
+	font-size: 27.5px;
+}
+
+p.wwww{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 30px;
+}
+
+p.eeee{
+	background-color: white;
+    color: #EF4354;
+	font-size: 32.5px;
+}
+
+p.rrrr{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 35px;
+}
+
+p.tttt{
+	background-color: white;
+    color: #EF4354;
+	font-size: 37.5px;
+}
+
+p.yyyy{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 40px;
+}
+
+p.uuuu{
+	background-color: white;
+    color: #EF4354;
+	font-size: 42.5px;
+}
+
+p.iiii{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 45px;
+}
+
+p.oooo{
+	background-color: white;
+    color: #EF4354;
+	font-size: 47.5px;
+}
+
+p.pppp{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 50px;
+}
+
+p.llll{
+	background-color: white;
+    color: #EF4354;
+	font-size: 52.5px;
+}
+
+p.kkkk{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 55px;
+}
+
+p.jjjj{
+	background-color: white;
+    color: #EF4354;
+	font-size: 57.5px;
+}
+
+p.hhhh{
+	background-color: #C9B1B2;
+    color: #EF4354;
+	font-size: 60px;
+}
+
+p.gggg{
+	background-color: white;
+    color: #EF4354;
+	font-size: 62.7px;
+}
