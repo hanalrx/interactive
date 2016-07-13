@@ -1,0 +1,17 @@
+body{
+	margin:300px;
+	text-align: center;
+	font-size: 35px;
+	font-family: 'Lobster', cursive;
+	background-color: #262626;
+}
+div{
+  color: transparent;
+  text-shadow: 0 0 5px #f96;
+  line-height: -10%
+}
+
+div:hover{
+  color: white;
+  background-color: #ffd9b3;
+}

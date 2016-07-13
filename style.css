@@ -1,3 +1,22 @@
 body {
-	background-image:url(http://www.zcool.com.cn/img.html#src=http://img.zcool.cn/community/01b16b56a9ce5b32f875520f69c9a6.png);
+	background-color:#0c1122;
+	margin-left:100px;
+	color:white;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 50px;
+}
+
+a{
+	background-color: #bc869e;
+	color:white;
+}
+
+span{
+	background-color: #bc869e;
+	color:white;
+	font-size: 50px;
+}
+img{
+	position: fixed;
+	right: 0px;
 }

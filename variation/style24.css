@@ -1,0 +1,11 @@
+body{
+font-family: 'Cabin', sans-serif;
+	margin-left: 500px;
+	margin-right: 500px;
+	border-width: 20px;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de;
+    color:white;
+    background-color: black;
+    font-style: uppercase;
+    font-size: 95px;
+}

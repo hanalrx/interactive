@@ -1,13 +1,23 @@
 body{
-	margin:20px;
+	margin:100px;
 	border:solid;
 	padding:30px;
 	font-family: 'Amatic SC', cursive;
-	font-size:30px;
+	font-size:40px;
 	text-align: center;
 	letter-spacing: 3px;
 }
 
 span.qqqq{
 	border:solid;
+	background-color: black;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 0px solid #73AD21;
+    background-color:#b3ffd9; 
 }
