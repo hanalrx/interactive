@@ -4,107 +4,107 @@ body{
 	margin-top: 70px;
 	margin-left: 50px;
 	margin-right: 50px;
-	background-color: #6ED3BF;
+	background-color: 	 #f2d9d9;
 	color: white;
 }
 
 span.head{
-	background-color:  #50958a;
+	background-color: #ecc6c6;
 	font-weight：700;
 	font-size: 40px;
 	letter-spacing: 16.2px;
 }
 
 span.first1{
-	background-color: #79B7AE;
+	background-color: #e6b3b3;
 	letter-spacing: 20px;
 }
 
 
 span.first{
-	background-color: #79B7AE;
+	background-color: #df9f9f;
 	letter-spacing: 15px;
 }
 
 span.second{
-	background-color: #79B7A8;
+	background-color: #d98c8c;
 	letter-spacing: 8px;
 }
 span.second2{
-	background-color: #79B7A8;
+	background-color: #d27979;
 	letter-spacing: 7px;
 }
 span.second3{
-	background-color: #79B7A8;
+	background-color: #cc6666;
 	letter-spacing: 8.5px;
 }
 
 
 span.third{
-	background-color: #79B7A8;
+	background-color: #c65353;
 	letter-spacing: 5px;
 }
 
 span.third2{
-	background-color: #79B7A8;
+	background-color: #bf4040;
 	letter-spacing: 3px;
 }
 
 span.third3{
-	background-color: #79B7A8;
+	background-color: #ac3939;
 	letter-spacing: 5px;
 }
 
 span.forth{
-	background-color: #79B7A8;
+	background-color: #993333;
 	letter-spacing: 2.5px;
 }
 
 span.forth2{
-	background-color: #79B7A8;
+	background-color: #862d2d;
 	letter-spacing: 1.5px;
 }
 span.forth3{
-	background-color: #79B7A8;
+	background-color: #732626;
 	letter-spacing: 2px;
 }
 span.fifth{
-	background-color: #79B7A8;
+	background-color: #602020;
 	letter-spacing: -1px;
 }
 
 span.fifth1{
-	background-color: #79B7A8;
+	background-color: #4d1919;
 	letter-spacing: -1px;
 }
 
 span.fifth2{
-	background-color: #79B7A8;
+	background-color: #391313;
 	letter-spacing: -0.5px;
 }
 
 span.six{
-	background-color: #79B7A8;
+	background-color: #260d0d;
 	letter-spacing: -1.9px;
 }
 
 span.six1{
-	background-color: #79B7A8;
+	background-color: #130606;
 	letter-spacing: -3px;
 }
 
 span.six2{
-	background-color: #79B7A8;
+	background-color: #000000;
 	letter-spacing: -2px;
 }
 
 span.six3{
-	background-color: #79B7A8;
+	background-color: #000000;
 	letter-spacing: -4px;}
 
 
 span.last{
-	background-color: #79B7A8;
+	background-color: #000000;
 	letter-spacing: -0.6px;
 }
 
