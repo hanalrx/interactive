@@ -1,11 +1,124 @@
 <html>
 <head>
+<meta charset="utf-8">
 <style type="text/css">
 p.dotted {border-style: dotted}
 p {border-width:40px}
 span.highlight
 {
 background-color:black
+}
+body{
+	margin-bottom: 100px;
+	margin-top: 100px;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align:center;
+}
+
+div {
+    transition-duration: 0.3s;
+}
+div.fixed{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 35px;
+    border: 0px solid;
+    background-color:#808080; 
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8; 
+}
+div.fixed:hover{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 40px;
+    border: 0px solid;
+    background-color:#4d4d4d; 
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+
+div.fixed2{
+    position: fixed;
+    top: 50%;
+    right: 0;
+    width: 35px;
+    border: 0px solid;
+    background-color:#808080; 
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8;
+}
+
+div.fixed2:hover{
+    position: fixed;
+    top: 50%;
+    right: 0;
+    width: 40px;
+    border: 0px solid;
+    background-color:#4d4d4d; 
+    color: white;
+    text-decoration: none;
+    filter:none;
+}
+
+a { 
+color:white; 
+text-decoration:none; 
+}
+
+a[title]:hover:after{
+	content: attr(title);
+	position:absolute;
+	background-color: #4d4d4d;
+	font-size: 20px;
+}
+
+a.next[title]:hover:after{
+	right: 50px;
+}
+
+a.previous[title]:hover:after{
+	left: 50px;
+}
+a.home{
+	color:black}
+
+div.home{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:none; 
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8}
+
+    div.home:hover{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:none; 
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 45px}
+
+    a.home[title]:hover:after{
+    	top: 15px;
+	left: 50px;
+	color: white;
+	font-size: 20px;
 }
 </style>
 </head>
@@ -17,10 +130,19 @@ background-color:black
 <p class="dotted"></p>
 <body>
 <p class="dotted"></p>
-<span class="highlight"><strong>DO NOT GO GENTLE IN TO THAT GOOD NIGHT</strong></span><span class="highlight">Old age &nbsp;should burn and rave &nbsp;at close of day&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="highlight">RAGE,RAGE AGAINST THE DYING OF THE LIGHT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<p class="leftmargin"><span class="highlight">Though wise men at their end know dark is right&nbsp;&nbsp;&nbsp;</span><span class="highlight">Because their words had forked no lightning they&nbsp;</span><span class="highlight"><strong>DO NOT GO GENTLE IN TO THAT GOOD NIGHT</strong></span>
+<p>
+<span class="highlight">>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do Not Go Gentle Into That Good Night&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </p>
-
+<p>
+<span class="highlight">Do not go gentle into that good night,
+　　Old age should burn and rave at close of day，
+　　Rage, rage against the dying of the light.&nbsp;
+</span>
+</p>
+<p>
+<span class="highlight">Though wise men at their end know dark is right,Because their words had forked no lightning they.Do not go gentle into that good night.&nbsp;
+</span>
+</p>
 <p><span class="highlight">&nbsp;&nbsp;&nbsp;Good men, the last wave by, crying how bright</span><span class="highlight">Their frail deeds might have danced in a green bay</span><span class="highlight">RAGE,RAGE AGAINST THE DYING OF THE LIGHT</span>
 </p>
 
@@ -42,7 +164,15 @@ background-color:black
 <p class="dotted"></p>
 <body>
 <p class="dotted"></p>
-
+<div class="fixed" align="center">
+<a title="previous" class="previous" href="https://hanalrx.github.io/interactive/variation/12.html">⇐</a>
+</div>
+<div class="fixed2" align="center">
+<a title="next" class="next" href="https://hanalrx.github.io/interactive/variation/14.html">⇒</a>
+</div>
+<div class="home" align="center">
+<a title="25variations" class="home" href="https://hanalrx.github.io/interactive/variation/index.html">≡</a>
+</div>
 
 </body>
 
