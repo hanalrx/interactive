@@ -68,6 +68,7 @@ a[title]:hover:after{
 	position:absolute;
 	background-color: #4d4d4d;
 	font-size: 20px;
+    color:white;
 }
 
 a.next[title]:hover:after{
