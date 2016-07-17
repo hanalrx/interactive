@@ -56,3 +56,108 @@ p.head4{
 	border: 2px;
     border-style: dotted;
 }
+
+div {
+    transition-duration: 0.3s;
+}
+div.fixed{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 40px;
+    border: 0px solid;
+    background-color:#808080; 
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    opacity: 0.8; 
+}
+div.fixed:hover{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:#4d4d4d; 
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+
+div.fixed2{
+    position: fixed;
+    top: 50%;
+    right: 0;
+    width: 40px;
+    border: 0px solid;
+    background-color:#808080; 
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    opacity: 0.8;
+}
+
+div.fixed2:hover{
+    position: fixed;
+    top: 50%;
+    right: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:#4d4d4d; 
+    color: white;
+    text-decoration: none;
+    filter:none;
+}
+
+a { 
+color:white; 
+text-decoration:none; 
+}
+
+a[title]:hover:after{
+	content: attr(title);
+	position:absolute;
+	background-color: #4d4d4d;
+	font-size: 30px;
+}
+
+a.next[title]:hover:after{
+	right: 50px;
+}
+
+a.previous[title]:hover:after{
+	left: 50px;
+}
+a.home{
+	color:white}
+
+div.home{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:none; 
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8;}
+
+    div.home:hover{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:none; 
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 45px}
+
+    a.home[title]:hover:after{
+    	top: 15px;
+	left: 50px;
+	color: white;
+	font-size: 20px;
+}

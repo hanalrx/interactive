@@ -1,0 +1,12 @@
+body{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10%;
+	border-style: solid;;
+	padding: 40px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+p.first{
+	font-size: 40px;
+}
