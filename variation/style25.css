@@ -15,3 +15,8 @@ div:hover{
   color: white;
   background-color: #ffd9b3;
 }
+
+div {
+    -webkit-transition-duration: 2s; 
+    transition-duration: 2s;
+}
