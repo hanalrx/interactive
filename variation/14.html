@@ -1,5 +1,7 @@
 <html>
 <head>
+<meta charset="utf-8">
+<title>Do not go gentle into that good night</title>
 <style type="text/css">
 ul
 {
@@ -9,30 +11,156 @@ padding:0;
 margin:30px;
 list-style-type:none;
 }
-a
+a.yuanlai
 {
 float:left;
 width:7em;
 text-decoration:none;
 color:white;
-background-color:#4e9b6f;
+background-color:black;
 padding:0.2em 0.6em;
 border-right:1px solid white;
 }
-a:hover {background-color:#4e9b6f}
+
 li {display:inline}
+body{
+	margin-bottom: 100px;
+	margin-top: 100px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+div {
+    transition-duration: 0.3s;
+}
+div.fixed{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 35px;
+    border: 0px solid;
+    background-color:#808080; 
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8; 
+    font-family: 'Open Sans', sans-serif;
+}
+div.fixed:hover{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 40px;
+    border: 0px solid;
+    background-color:#4d4d4d; 
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+div.fixed2{
+    position: fixed;
+    top: 50%;
+    right: 0;
+    width: 35px;
+    border: 0px solid;
+    background-color:#808080; 
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.fixed2:hover{
+    position: fixed;
+    top: 50%;
+    right: 0;
+    width: 40px;
+    border: 0px solid;
+    background-color:#4d4d4d; 
+    color: white;
+    text-decoration: none;
+    filter:none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+a[title]:hover:after{
+	content: attr(title);
+	position:absolute;
+	background-color: #4d4d4d;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	color:white; 
+text-decoration:none; 
+}
+
+a.next[title]:hover:after{
+	right: 50px;
+	font-family: 'Open Sans', sans-serif;
+	color:white; 
+text-decoration:none; 
+}
+
+a.previous[title]:hover:after{
+	left: 50px;
+	font-family: 'Open Sans', sans-serif;
+	color:white; 
+text-decoration:none; 
+}
+a.home{
+	color:black;
+	font-family: 'Open Sans', sans-serif; 
+text-decoration:none; }
+
+
+div.home{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:none; 
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8;
+font-family: 'Open Sans', sans-serif;}
+
+    div.home:hover{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    border: 0px solid;
+    background-color:none; 
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 45px;
+font-family: 'Open Sans', sans-serif;}
+
+    a.home[title]:hover:after{
+    	top: 15px;
+	left: 50px;
+	color: white;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
 </style>
 </head>
 
 <body>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <ul>
-<li><a href="#1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do Not&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-<li><a href="#2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Walk&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-<li><a href="#3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentle&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-<li><a href="#4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Into&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-<li><a href="#5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-<li><a href="#6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Night&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li><a class="yuanlai" href="#1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do Not&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li><a class="yuanlai" href="#2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Walk&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li><a class="yuanlai" href="#3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentle&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li><a class="yuanlai" href="#4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Into&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li><a class="yuanlai" href="#5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li><a class="yuanlai" href="#6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Night&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
 </ul>
 
 
@@ -89,5 +217,14 @@ li {display:inline}
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
+<div class="fixed" align="center">
+<a title="previous" class="previous" href="https://hanalrx.github.io/interactive/variation/13.html">⇐</a>
+</div>
+<div class="fixed2" align="center">
+<a title="next" class="next" href="https://hanalrx.github.io/interactive/variation/15.html">⇒</a>
+</div>
+<div class="home" align="center">
+<a title="25variations" class="home" href="https://hanalrx.github.io/interactive/variation/index.html">≡</a>
+</div>
 </body>
 </html>
