@@ -22,3 +22,8 @@ div.first:hover{
 	background-color: yellow;
 	font-size: 40px;
 }
+
+div {
+    -webkit-transition-duration: 2s; /* Safari */
+    transition-duration: 2s;
+}
