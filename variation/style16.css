@@ -21,7 +21,7 @@ div.fixed{
     color: white;
     text-decoration: none;
     font-size: 35px;
-    opacity: 0.8; 
+    opacity: 0.8; font-family: 'Open Sans', sans-serif;
 }
 div.fixed:hover{
     position: fixed;
@@ -32,7 +32,7 @@ div.fixed:hover{
     background-color:#4d4d4d; 
     color: white;
     text-decoration: none;
-    opacity: 0.8;
+    opacity: 0.8;font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -46,7 +46,7 @@ div.fixed2{
     color: white;
     text-decoration: none;
     font-size: 35px;
-    opacity: 0.8;
+    opacity: 0.8;font-family: 'Open Sans', sans-serif;
 }
 
 div.fixed2:hover{
@@ -58,7 +58,7 @@ div.fixed2:hover{
     background-color:#4d4d4d; 
     color: white;
     text-decoration: none;
-    filter:none;
+    filter:none;font-family: 'Open Sans', sans-serif;
 }
 
 a { 
@@ -70,18 +70,18 @@ a[title]:hover:after{
 	content: attr(title);
 	position:absolute;
 	background-color: #4d4d4d;
-	font-size: 20px;
+	font-size: 20px;font-family: 'Open Sans', sans-serif;
 }
 
 a.next[title]:hover:after{
-	right: 50px;
+	right: 50px;font-family: 'Open Sans', sans-serif;
 }
 
 a.previous[title]:hover:after{
-	left: 50px;
+	left: 50px;font-family: 'Open Sans', sans-serif;
 }
 a.home{
-	color:black}
+	color:black;font-family: 'Open Sans', sans-serif;}
 
 div.home{
     position: fixed;
@@ -93,7 +93,7 @@ div.home{
     color: #4d4d4d;
     text-decoration: none;
     font-size: 35px;
-    opacity: 0.8}
+    opacity: 0.8;font-family: 'Open Sans', sans-serif;}
 
     div.home:hover{
     position: fixed;
@@ -104,11 +104,12 @@ div.home{
     background-color:none; 
     color: #4d4d4d;
     text-decoration: none;
-    font-size: 45px}
+    font-size: 45px;
+font-family: 'Open Sans', sans-serif;}
 
     a.home[title]:hover:after{
     	top: 15px;
 	left: 50px;
 	color: white;
-	font-size: 20px;
+	font-size: 20px;font-family: 'Open Sans', sans-serif;
 }
