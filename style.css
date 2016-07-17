@@ -3,13 +3,22 @@ body {
 	margin-left:100px;
 	color:white;
 	font-family: 'Open Sans', sans-serif;
-	margin-top: 50px;
+	margin-top: 20%;
+	text-align:center;
 }
 
 a{
-	background-color: white;
+	background-color: 	 #cccccc;
 	color:black;
+	transition-duration: 0.4s
 }
+
+a:hover{
+	background-color: 	 white;
+	color:pink;
+	font-size: 25px;
+}
+
 
 span{
 	background-color: white;
@@ -18,7 +27,8 @@ span{
 }
 img{
 	position: fixed;
-	right: 0px;
+	right: 16%;
+    top: 0;
 }
 span.qqqq{
 background-color: white;
