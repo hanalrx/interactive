@@ -1,0 +1,72 @@
+
+
+body {
+	background: white;
+	color: red;
+	font-size: 24px;
+}
+
+.horse {
+	width: 350px;
+	height: 350px;
+	background: url('images/01.jpg');
+}
+
+
+/* Media Queries */
+
+@media screen and (max-width: 1024px) {
+
+  .one {
+  	display: none;
+  }
+
+  .horse {
+  	background: url('images/02.jpg');
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  .two {
+  	display: none;
+  }
+
+  .horse {
+  	background: url('images/03.jpg');
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+
+  .three {
+  	display: none;
+  }
+
+  .horse {
+  	background: url('images/04.jpg');
+  }
+
+}
+
+@media screen and (max-width: 480px) {
+  
+  .four {
+  	display: none;
+  }
+
+  .horse {
+  	background: url('images/05.jpg');
+  }
+
+}
+
+@media screen and (max-width: 320px) {
+
+  .horse {
+  	background: url('images/06.jpg');
+  }
+
+}
