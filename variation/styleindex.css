@@ -28,7 +28,7 @@ a{
 }
 
 a.level1{
-	color: yellow;
+	color: #ffff99;
 	left:33%;
 }
 a.level11{
@@ -46,7 +46,7 @@ a.level13{
 }
 
 a.level2{
-	color: pink;
+	color: #ffff99;
 	left:33%;
 }
 a.level21{
@@ -64,8 +64,9 @@ a.level23{
 }
 a:hover{
 	color: black;
-	background-color: white;
-	transition-duration: 0.2s
+	background-color: #ffff99;
+	transition-duration: 0.2s;
+	font-size:46px;
 }
 
 a.homepage{
