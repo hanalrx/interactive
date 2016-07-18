@@ -12,7 +12,7 @@ body {
 
 a{
 	color:white;
-	transition-duration: 0.3s;
+	transition-duration: 0.4s;
 	text-decoration:none;
 	font-size: 15px;
 
@@ -21,7 +21,7 @@ a{
 a:hover{
 	background-color:black;
 	color:#ffff99;
-	font-size: 17px;
+	font-size: 20px;
 }
 
 
