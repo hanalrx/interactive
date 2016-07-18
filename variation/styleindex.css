@@ -1,9 +1,69 @@
-div.small1{
-	line-height: 10%;
-	font-size: 30px;
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 23px;
+
+}
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+li
+{
+display:inline;
 }
 
-div.small{
-	font-size: 45px;
-	line-height: 10%;
+a{
+	color: #ffff99;
+	background-color: black;
+	text-decoration: none;
+	font-size: 40px;
+	position: fixed;
+
+}
+
+a.level1{
+	color: yellow;
+	left:33%;
+}
+a.level11{
+	left:43%;
+}
+a.level12{
+	left:48%;
+}
+a.level13{
+	left:53%;
+}a.level14{
+	left:58%;
+}a.level15{
+	left:63%;
+}
+
+a.level2{
+	color: pink;
+	left:33%;
+}
+a.level21{
+	left:43%;
+}
+a.level22{
+	left:48%;
+}
+a.level23{
+	left:53%;
+}a.level24{
+	left:58%;
+}a.level25{
+	left:63%;
+}
+a:hover{
+	color: black;
+	background-color: white;
+	transition-duration: 0.2s
 }
