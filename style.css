@@ -1,36 +1,46 @@
 body {
 	background-color:black;
 	margin-left:100px;
+	margin-right:100px;
 	color:white;
 	font-family: 'Open Sans', sans-serif;
-	margin-top: 20%;
+	margin-top: 12%;
 	text-align:center;
+	text-decoration: none;
+	line-height: 15px;
 }
 
 a{
-	background-color: 	 #cccccc;
-	color:black;
-	transition-duration: 0.4s
+	color:white;
+	transition-duration: 0.4s;
+	text-decoration:none;
+
 }
 
 a:hover{
-	background-color: 	 white;
-	color:pink;
+	background-color:black;
+	color:#ffff99;
 	font-size: 25px;
 }
 
 
-span{
-	background-color: white;
+span.head{
+	background-color: #ffff99;
 	color:black;
 	font-size: 50px;
 }
 img{
 	position: fixed;
-	right: 16%;
-    top: 0;
+   bottom: 10%;
+    left:37%
 }
 span.qqqq{
 background-color: white;
 }
-#0c1122
+
+p{background-color: white}
+
+span.grey{
+	color:grey;
+	opacity: 60%;
+}
