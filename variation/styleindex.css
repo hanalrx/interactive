@@ -1,6 +1,6 @@
 body{
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 35%;
+	margin-right: 35%;
 	margin-top: 5%;
 	margin-bottom: 10%;
 	font-family: 'Open Sans', sans-serif;
@@ -66,4 +66,36 @@ a:hover{
 	color: black;
 	background-color: white;
 	transition-duration: 0.2s
+}
+
+a.homepage{
+	color:black;
+background-color:white;}
+
+div.homepage{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    width: 50px;
+    background-color:none; 
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 35px;
+    opacity: 0.8}
+
+    div.homepage:hover{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    background-color:yellow; 
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 45px}
+
+    a.homepage[title]:hover:after{
+    	top: 15px;
+	left: 50px;
+	color: white;
+	font-size: 60px;
 }
