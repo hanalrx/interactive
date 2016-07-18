@@ -31,9 +31,8 @@ span.head{
 	font-size: 50px;
 }
 img{
-	position: fixed;
-   bottom: 7%;
-    left:37%
+	margin: 0 auto;
+	display: inline-block;
 }
 span.qqqq{
 background-color: white;
