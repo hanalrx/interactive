@@ -21,7 +21,7 @@ body {
   	display: none;
   }
 
-  .horse {
+  .face {
   	background: url('images/02.jpg');
   }
 
@@ -33,7 +33,7 @@ body {
   	display: none;
   }
 
-  .horse {
+  .face {
   	background: url('images/03.jpg');
   }
 
@@ -45,7 +45,7 @@ body {
   	display: none;
   }
 
-  .horse {
+  .face {
   	background: url('images/04.jpg');
   }
 
@@ -57,7 +57,7 @@ body {
   	display: none;
   }
 
-  .horse {
+  .face {
   	background: url('images/05.jpg');
   }
 
@@ -65,7 +65,7 @@ body {
 
 @media screen and (max-width: 320px) {
 
-  .horse {
+  .face {
   	background: url('images/06.jpg');
   }
 
