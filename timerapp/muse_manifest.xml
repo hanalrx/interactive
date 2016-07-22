@@ -1,0 +1,20 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="lightyear.com" resolutions="1x" timestamp="1469201291451">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="untitled-3.css" crc="535737007" ref="untitled-3"/>
+    <file name="index.css" crc="128881426" ref="index"/>
+    <file name="untitled-2.css" crc="3790814765" ref="untitled-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:untitled-2:untitled-3"/>
+    <file name="museutils.js" crc="183364071" ref="index:untitled-2:untitled-3"/>
+  </folder>
+  <folder name="images">
+    <file name="app1.jpg" crc="60790367" seo="true" ref="index"/>
+    <file name="app2.jpg" crc="4265008023" seo="true" ref="untitled-2"/>
+    <file name="app3.jpg" crc="4074883329" seo="true" ref="untitled-3"/>
+  </folder>
+  <file name="index.html" crc="290839981" seo="true" mt="1469201250782" redirect="true"/>
+  <file name="untitled-2.html" crc="468806285" seo="true" mt="1469201244642" redirect="true"/>
+  <file name="untitled-3.html" crc="471811913" seo="true" mt="1469201137877" redirect="true"/>
+</manifest>

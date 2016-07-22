@@ -1,0 +1,68 @@
+.version.untitled_2 /* version checker */
+{
+	color: #0000E1;
+	background-color: #F33E2D;
+}
+
+@-ms-viewport
+{
+	width: 414px;
+}
+
+@-webkit-viewport
+{
+	width: 414px;
+}
+
+@-o-viewport
+{
+	width: 414px;
+}
+
+@-moz-viewport
+{
+	width: 414px;
+}
+
+@viewport
+{
+	width: 414px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 414px;
+	min-height: 736px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #090708;
+}
+
+#page_position_content
+{
+	padding-bottom: 71px;
+	width: 0.01px;
+}
+
+#u103
+{
+	z-index: 2;
+	width: 415px;
+	background-color: transparent;
+	left: -1px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 414px;
+}
+
