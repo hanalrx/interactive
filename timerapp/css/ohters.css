@@ -1,0 +1,92 @@
+.version.ohters /* version checker */
+{
+	color: #00000F;
+	background-color: #974274;
+}
+
+@-ms-viewport
+{
+	width: 414px;
+}
+
+@-webkit-viewport
+{
+	width: 414px;
+}
+
+@-o-viewport
+{
+	width: 414px;
+}
+
+@-moz-viewport
+{
+	width: 414px;
+}
+
+@viewport
+{
+	width: 414px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 306px;
+	min-height: 179.84999999999997px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #000000;
+	padding: 152px 73px 333.15000000000003px 35px;
+}
+
+#u380-4
+{
+	z-index: 2;
+	width: 287px;
+	min-height: 49px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+}
+
+#u381-4
+{
+	z-index: 6;
+	width: 306px;
+	min-height: 43px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u383-4
+{
+	z-index: 10;
+	width: 306px;
+	min-height: 53px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	margin-top: 15px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 414px;
+}
+

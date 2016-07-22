@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.meteor_shower /* version checker */
 {
-	color: #000017;
-	background-color: #A9706A;
+	color: #00000B;
+	background-color: #F17B55;
 }
 
 @-ms-viewport
@@ -38,11 +38,12 @@
 {
 	z-index: 1;
 	width: 414px;
-	min-height: 665px;
+	min-height: 664.7727272727275px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #201E1D;
+	background-color: transparent;
+	padding-bottom: 0px;
 }
 
 #page_position_content
@@ -50,10 +51,10 @@
 	width: 0.01px;
 }
 
-#u91
+#u390
 {
 	z-index: 2;
-	width: 418px;
+	width: 414px;
 	background-color: transparent;
 	position: relative;
 }

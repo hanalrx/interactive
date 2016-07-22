@@ -1,7 +1,7 @@
-.version.untitled_3 /* version checker */
+.version.pink_mark_little /* version checker */
 {
-	color: #00001F;
-	background-color: #EEB2AF;
+	color: #0000FE;
+	background-color: #FB9DEC;
 }
 
 @-ms-viewport
@@ -38,20 +38,19 @@
 {
 	z-index: 1;
 	width: 414px;
-	min-height: 736px;
+	min-height: 665px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #121011;
+	background-color: #000000;
 }
 
 #page_position_content
 {
-	padding-bottom: 71px;
 	width: 0.01px;
 }
 
-#u115
+#u226
 {
 	z-index: 2;
 	width: 414px;

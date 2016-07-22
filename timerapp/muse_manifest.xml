@@ -1,20 +1,76 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="lightyear.com" resolutions="1x" timestamp="1469201291451">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="lightyear.com" resolutions="1x" timestamp="1469212084750">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="untitled-3.css" crc="535737007" ref="untitled-3"/>
-    <file name="index.css" crc="128881426" ref="index"/>
-    <file name="untitled-2.css" crc="3790814765" ref="untitled-2"/>
+    <file name="many-marks.css" crc="3997521931" ref="many-marks"/>
+    <file name="comfirm.css" crc="19284418" ref="comfirm"/>
+    <file name="name-date.css" crc="4118272122" ref="name-date"/>
+    <file name="earth4.css" crc="4216991542" ref="earth4"/>
+    <file name="re-edit.css" crc="3940113546" ref="re-edit"/>
+    <file name="ohters.css" crc="261571188" ref="ohters"/>
+    <file name="index.css" crc="396980330" ref="index"/>
+    <file name="importance.css" crc="3980995110" ref="importance"/>
+    <file name="closer.css" crc="4152310458" ref="closer"/>
+    <file name="pink-mark-little.css" crc="4277902828" ref="pink-mark-little"/>
+    <file name="add-description.css" crc="4034874855" ref="add-description"/>
+    <file name="color.css" crc="4044468163" ref="color"/>
+    <file name="reminder.css" crc="3918329914" ref="reminder"/>
+    <file name="meteor-shower.css" crc="200375125" ref="meteor-shower"/>
+    <file name="earth3.css" crc="367775830" ref="earth3"/>
+    <file name="click-pink-big.css" crc="3875740450" ref="click-pink-big"/>
+    <file name="delete.css" crc="3897057373" ref="delete"/>
+    <file name="confirm-again.css" crc="4178487673" ref="confirm-again"/>
+    <file name="after-explotion.css" crc="35886974" ref="after-explotion"/>
+    <file name="pink-big.css" crc="3944027357" ref="pink-big"/>
+    <file name="earth2.css" crc="3931399782" ref="earth2"/>
+    <file name="earth1.css" crc="4011444909" ref="earth1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:untitled-2:untitled-3"/>
-    <file name="museutils.js" crc="183364071" ref="index:untitled-2:untitled-3"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:earth1:earth2:earth3:earth4:name-date:add-description:color:importance:pink-mark-little:pink-big:click-pink-big:re-edit:delete:closer:reminder:comfirm:confirm-again:after-explotion:ohters:meteor-shower:many-marks"/>
+    <file name="museutils.js" crc="183364071" ref="index:earth1:earth2:earth3:earth4:name-date:add-description:color:importance:pink-mark-little:pink-big:click-pink-big:re-edit:delete:closer:reminder:comfirm:confirm-again:after-explotion:ohters:meteor-shower:many-marks"/>
   </folder>
   <folder name="images">
     <file name="app1.jpg" crc="60790367" seo="true" ref="index"/>
-    <file name="app2.jpg" crc="4265008023" seo="true" ref="untitled-2"/>
-    <file name="app3.jpg" crc="4074883329" seo="true" ref="untitled-3"/>
+    <file name="app2.jpg" crc="4265008023" seo="true" ref="earth1"/>
+    <file name="app3.jpg" crc="4074883329" seo="true" ref="earth2"/>
+    <file name="app 4.jpg" crc="3893068254" seo="true" ref="earth3"/>
+    <file name="app5.jpg" crc="103243825" seo="true" ref="earth4"/>
+    <file name="app6.jpg" crc="3825977383" seo="true" ref="name-date"/>
+    <file name="app7.jpg" crc="143529318" seo="true" ref="add-description"/>
+    <file name="app9.jpg" crc="3843508984" seo="true" ref="color"/>
+    <file name="app10.jpg" crc="373146138" seo="true" ref="importance"/>
+    <file name="app11.jpg" crc="4181206719" seo="true" ref="pink-mark-little"/>
+    <file name="app12.jpg" crc="97316259" seo="true" ref="pink-big"/>
+    <file name="app13.jpg" crc="3900320959" seo="true" ref="click-pink-big"/>
+    <file name="re-edit.jpg" crc="4042213494" seo="true" ref="re-edit"/>
+    <file name="delete.jpg" crc="400042058" seo="true" ref="delete"/>
+    <file name="app14.jpg" crc="372938821" seo="true" ref="closer"/>
+    <file name="app15.jpg" crc="462740621" seo="true" ref="reminder"/>
+    <file name="app16.jpg" crc="315010697" seo="true" ref="comfirm"/>
+    <file name="app17.jpg" crc="3949707276" seo="true" ref="confirm-again"/>
+    <file name="after explotion.jpg" crc="4124352441" seo="true" ref="after-explotion"/>
+    <file name="app18.jpg" crc="4188826968" seo="true" ref="meteor-shower"/>
+    <file name="app19.jpg" crc="206219431" seo="true" ref="many-marks"/>
   </folder>
-  <file name="index.html" crc="290839981" seo="true" mt="1469201250782" redirect="true"/>
-  <file name="untitled-2.html" crc="468806285" seo="true" mt="1469201244642" redirect="true"/>
-  <file name="untitled-3.html" crc="471811913" seo="true" mt="1469201137877" redirect="true"/>
+  <file name="index.html" crc="3948193715" seo="true" mt="1469209562339" redirect="true"/>
+  <file name="earth1.html" crc="230639268" seo="true" mt="1469209562339" redirect="true"/>
+  <file name="earth2.html" crc="418752041" seo="true" mt="1469209562339" redirect="true"/>
+  <file name="earth3.html" crc="302165753" seo="true" mt="1469211666004" redirect="true"/>
+  <file name="earth4.html" crc="207329112" seo="true" mt="1469209562339" redirect="true"/>
+  <file name="name-date.html" crc="338050083" seo="true" mt="1469210993552" redirect="true"/>
+  <file name="add-description.html" crc="379156337" seo="true" mt="1469211012143" redirect="true"/>
+  <file name="color.html" crc="4219869519" seo="true" mt="1469211025209" redirect="true"/>
+  <file name="importance.html" crc="3947106370" seo="true" mt="1469211045793" redirect="true"/>
+  <file name="pink-mark-little.html" crc="110042585" seo="true" mt="1469211058829" redirect="true"/>
+  <file name="pink-big.html" crc="483495053" seo="true" mt="1469210351378" redirect="true"/>
+  <file name="click-pink-big.html" crc="4058330165" seo="true" mt="1469210239524" redirect="true"/>
+  <file name="re-edit.html" crc="3936180213" seo="true" mt="1469210080289" redirect="true"/>
+  <file name="delete.html" crc="342718033" seo="true" mt="1469210297571" redirect="true"/>
+  <file name="closer.html" crc="123812677" seo="true" mt="1469210416615" redirect="true"/>
+  <file name="reminder.html" crc="518932437" seo="true" mt="1469210606673" redirect="true"/>
+  <file name="comfirm.html" crc="296159439" seo="true" mt="1469210731287" redirect="true"/>
+  <file name="confirm-again.html" crc="412429613" seo="true" mt="1469211784469" redirect="true"/>
+  <file name="after-explotion.html" crc="4217830961" seo="true" mt="1469211836351" redirect="true"/>
+  <file name="ohters.html" crc="124843636" seo="true" mt="1469211828119" redirect="true"/>
+  <file name="meteor-shower.html" crc="20928287" seo="true" mt="1469211850140" redirect="true"/>
+  <file name="many-marks.html" crc="445435651" seo="true" mt="1469211861938" redirect="true"/>
 </manifest>

@@ -1,0 +1,81 @@
+.version.add_description /* version checker */
+{
+	color: #0000F0;
+	background-color: #7F4DE7;
+}
+
+@-ms-viewport
+{
+	width: 414px;
+}
+
+@-webkit-viewport
+{
+	width: 414px;
+}
+
+@-o-viewport
+{
+	width: 414px;
+}
+
+@-moz-viewport
+{
+	width: 414px;
+}
+
+@viewport
+{
+	width: 414px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 414px;
+	min-height: 665px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #0F0D0E;
+}
+
+#u181
+{
+	z-index: 2;
+	width: 414px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u371
+{
+	z-index: 4;
+	width: 70px;
+	height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 632px;
+	left: 167px;
+}
+
+.ie #u371
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 414px;
+}
+

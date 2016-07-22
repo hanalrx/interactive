@@ -1,0 +1,101 @@
+.version.earth3 /* version checker */
+{
+	color: #000015;
+	background-color: #EBD056;
+}
+
+@-ms-viewport
+{
+	width: 414px;
+}
+
+@-webkit-viewport
+{
+	width: 414px;
+}
+
+@-o-viewport
+{
+	width: 414px;
+}
+
+@-moz-viewport
+{
+	width: 414px;
+}
+
+@viewport
+{
+	width: 414px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 414px;
+	min-height: 665px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #1A1817;
+}
+
+#u139
+{
+	z-index: 2;
+	width: 414px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u145
+{
+	z-index: 4;
+	width: 90px;
+	height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 231px;
+	left: 143px;
+}
+
+#u159
+{
+	z-index: 5;
+	width: 52px;
+	height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 336px;
+}
+
+#u192
+{
+	z-index: 6;
+	width: 248px;
+	height: 71px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.ie #u145,.ie #u159,.ie #u192
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 414px;
+}
+

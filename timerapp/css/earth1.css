@@ -1,0 +1,92 @@
+.version.earth1 /* version checker */
+{
+	color: #0000EF;
+	background-color: #19CAAD;
+}
+
+@-ms-viewport
+{
+	width: 414px;
+}
+
+@-webkit-viewport
+{
+	width: 414px;
+}
+
+@-o-viewport
+{
+	width: 414px;
+}
+
+@-moz-viewport
+{
+	width: 414px;
+}
+
+@viewport
+{
+	width: 414px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 414px;
+	min-height: 665px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #090708;
+}
+
+#u103
+{
+	z-index: 2;
+	width: 415px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+}
+
+#u172
+{
+	z-index: 4;
+	width: 55px;
+	height: 55px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 334px;
+}
+
+#u190
+{
+	z-index: 5;
+	width: 253px;
+	height: 71px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+}
+
+.ie #u172,.ie #u190
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 414px;
+}
+
