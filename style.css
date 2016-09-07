@@ -8,6 +8,7 @@ body {
 	text-align:center;
 	text-decoration: none;
 	line-height: 12px;
+	cursor: url("smile.ico"),default;
 }
 
 a{
@@ -15,6 +16,7 @@ a{
 	transition-duration: 0.4s;
 	text-decoration:none;
 	font-size: 16px;
+		cursor: url("smile.ico"),default;
 
 }
 
@@ -22,6 +24,7 @@ a:hover{
 	background-color:black;
 	color:#ffff99;
 	font-size: 20px;
+	cursor: url("smile.ico"),default;
 }
 
 
@@ -50,4 +53,7 @@ span.workshop{
 }
 span.last{
 	font-size: 10px;
+}
+span:hover{
+	cursor: url("smile.ico"),default;
 }
